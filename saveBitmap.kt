@@ -1,4 +1,4 @@
-package com.example.heightmapapp
+package com.example.Zhmap
 
 import android.graphics.Bitmap
 import android.os.Environment
