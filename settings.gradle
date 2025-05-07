@@ -1,2 +1,2 @@
-rootProject.name = "Zhmap"
+rootProject.name = 'Zhmap'
 include ':app'
